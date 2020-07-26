@@ -1,0 +1,17 @@
+section{
+    background: green;
+    margin-bottom: 20px;
+}
+.box{
+    padding: 20px;
+    background: blue;
+    color: #fff;
+    font-weight: bold;
+}
+
+.box-red{
+    padding: 20px;
+    background: red;
+    color: #fff;
+    font-weight: bold;
+}
